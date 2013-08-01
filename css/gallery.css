@@ -1,0 +1,17 @@
+.image-gallery li{
+    display:inline-block;
+    margin: 8px;
+    padding: 0px;
+}
+
+.image-gallery {
+    width: 612px;
+    padding: 0px;
+    margin: 0px auto;
+
+}
+
+.image-gallery img{
+    display: block;
+
+}

@@ -1,11 +1,18 @@
 .page-title {
-    color: cadetblue;
-    font-size: 20px;
+    font-family: 'good_footregular';
+    font-size: 42px;
     text-align: center;
-    margin: 60px 60px ;
+    margin: 110px 0px -20px;
+}
+
+.main-menu a:link{
+    text-decoration: none;
+    color: black;
 }
 
 .main-menu {
+    font-family: 'caviar_dreamsregular', arial, sans-serif;
+    font-size: 17px;
     text-align: center;
 }
 
@@ -16,9 +23,41 @@
 .main-menu a {
     display:inline-block;
     padding:10px;
+    letter-spacing: 2.5px;
+}
+
+.images {
+    text-align: center;
+    font-family: 'caviar_dreamsbold';
+}
+
+.images a:link{
+    text-decoration: none;
+    color: black;
+    padding: 0;
+}
+
+.images li {
+    margin: 0px 14px;
+    display:inline-block;
+}
+
+.images a {
+    letter-spacing: 1px;
+    font-size: 18px;
+    display:block;
+    padding:10px;
+}
+
+.foot {
+    font-family: 'caviar_dreamsregular';
+    text-align: center;
 }
 
 .main-container {
      width: 960px;
      margin: auto;
 }
+
+
+
