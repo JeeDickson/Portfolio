@@ -60,4 +60,25 @@
 }
 
 
+.blog li{
+    display:inline-block;
+    margin: 2px;
+    padding: 0px;
+}
 
+.blog {
+    width: 744px;
+    padding: 0px;
+    margin: 0px auto;
+
+}
+
+.blog img{
+    display: block;
+    padding: 0px;
+}
+
+.blog ul{
+    padding: 0px;
+    margin: auto;
+}
